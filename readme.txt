@@ -144,14 +144,14 @@ Recorder.Create("ALL", "*");
 
 MockupEditor
 ----
-![mock](imgs/events.png)
+![mock](img/events.png)
 <br>
 이벤트를 런타임에 임의로 만들어낼 수 있습니다.<br>
 public 프로퍼티들에 대해서 자동으로 에디트할 수 있는 UI가 제공됩니다.
 
 StaticMockup
 ----
-![static](imgs/static.png)
+![static](img/static.png)
 <br>
 
 ```c#
