@@ -8,6 +8,8 @@ Watermelona를 이용하여 네트워크 작업을 처리하는 예제
 ```c#
 public enum RetryPolicy
 {
+    Ignore,
+    
     /// <summary>
     /// 전송 실패 시, 재시도해도 지장 없음
     /// </summary>
